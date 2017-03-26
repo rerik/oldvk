@@ -26,3 +26,16 @@ body.firefox #page_wrap {
 .nim-dialog .nim-dialog--text-preview {
 	display: block !important;
 }
+
+body.firefox #page_wrap {
+	overflow: visible;
+}
+.post_full_like_wrap.clear_fix {
+	padding: 0;
+}
+.wall_module .wall_text {
+	margin: 0;
+}
+.wall_module .media_desc {
+	margin: 0;
+}
